@@ -1,4 +1,2 @@
-Cajon
-===
 
 Things and stuff
